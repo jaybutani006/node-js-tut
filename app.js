@@ -3,5 +3,6 @@ module.exports = {
     y: 45,
     z: function(a, b) {
         return a + b
-    }
+    },
+    k: 50
 }
